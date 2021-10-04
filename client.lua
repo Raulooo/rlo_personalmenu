@@ -296,4 +296,4 @@ end)
 RegisterKeyMapping("PersonalMenu", "Abrir menu personal", "keyboard", "F5")
 
 -- END KEY CONTROL
-print("By raulo")
+print("By rauloo")
