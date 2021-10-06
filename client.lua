@@ -285,7 +285,7 @@ end
 
 -- Command Open Menu
 
-RegisterCommand('PersonalMenu', function(source)
+RegisterCommand('PersonalMenu2', function(source)
     openMenu()
 end)
 
@@ -293,4 +293,4 @@ end)
 
 -- KEY CONTROL
 
-RegisterKeyMapping("PersonalMenu", "Abrir menu personal", "keyboard", "F5")
+RegisterKeyMapping("PersonalMenu2", "Abrir menu personal", "keyboard", "F5")
