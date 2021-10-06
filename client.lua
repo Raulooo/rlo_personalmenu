@@ -294,6 +294,3 @@ end)
 -- KEY CONTROL
 
 RegisterKeyMapping("PersonalMenu", "Abrir menu personal", "keyboard", "F5")
-
--- END KEY CONTROL
-print("By rauloo"
